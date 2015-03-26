@@ -20,7 +20,10 @@ namespace AdamModule
 
         public static void Write(AdamSocket socket)
         {
-           
+            Modbus bus = new Modbus(socket);
+            string address= bus.Address.ToString();
+
+            socket.Send()
         }
 
 
