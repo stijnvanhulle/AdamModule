@@ -1,0 +1,13 @@
+Y:\2NMCT 2014-2015\SEM2\Datacommunication\project\SmsModule\SmsModule\obj\Debug\MainWindow.baml
+Y:\2NMCT 2014-2015\SEM2\Datacommunication\project\SmsModule\SmsModule\obj\Debug\MainWindow.g.cs
+Y:\2NMCT 2014-2015\SEM2\Datacommunication\project\SmsModule\SmsModule\obj\Debug\App.g.cs
+Y:\2NMCT 2014-2015\SEM2\Datacommunication\project\SmsModule\SmsModule\obj\Debug\SmsModule_MarkupCompile.cache
+Y:\2NMCT 2014-2015\SEM2\Datacommunication\project\SmsModule\SmsModule\obj\Debug\SmsModule.g.resources
+Y:\2NMCT 2014-2015\SEM2\Datacommunication\project\SmsModule\SmsModule\obj\Debug\SmsModule.Properties.Resources.resources
+Y:\2NMCT 2014-2015\SEM2\Datacommunication\project\SmsModule\SmsModule\obj\Debug\SmsModule.csproj.GenerateResource.Cache
+Y:\2NMCT 2014-2015\SEM2\Datacommunication\project\SmsModule\SmsModule\bin\Debug\SmsModule.exe.config
+Y:\2NMCT 2014-2015\SEM2\Datacommunication\project\SmsModule\SmsModule\bin\Debug\SmsModule.exe
+Y:\2NMCT 2014-2015\SEM2\Datacommunication\project\SmsModule\SmsModule\bin\Debug\SmsModule.pdb
+Y:\2NMCT 2014-2015\SEM2\Datacommunication\project\SmsModule\SmsModule\bin\Debug\SmsEncoder.dll
+Y:\2NMCT 2014-2015\SEM2\Datacommunication\project\SmsModule\SmsModule\obj\Debug\SmsModule.exe
+Y:\2NMCT 2014-2015\SEM2\Datacommunication\project\SmsModule\SmsModule\obj\Debug\SmsModule.pdb
