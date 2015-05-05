@@ -12,6 +12,7 @@ namespace AdamModule
         public static AdamSocket Open(){
             AdamSocket socket = new AdamSocket();
             socket.Connect(AdamType.Adam6000, "172.23.49.102", System.Net.Sockets.ProtocolType.Tcp);
+            //socket.Connect("172.23.49.102", System.Net.Sockets.ProtocolType.Tcp, 502);
             string error = socket.LastError.ToString();
             if (socket == null) throw new Exception(error);
 
@@ -23,7 +24,13 @@ namespace AdamModule
             Modbus bus = new Modbus(socket);
             string address= bus.Address.ToString();
 
-            socket.Send()
+            byte[] data= new byte[2];
+            data[0] = 1;
+            data[1] = 0;
+
+
+            socket.Send(data, 2);
+           
         }
 
 

@@ -16,3 +16,14 @@
 C:\Users\Stijn\Documents\AdamProject\AdamModule\AdamModule\bin\Debug\AdamModule.exe.config
 C:\Users\Stijn\Documents\AdamProject\AdamModule\AdamModule\obj\Debug\AdamModule.exe
 C:\Users\Stijn\Documents\AdamProject\AdamModule\AdamModule\obj\Debug\AdamModule.pdb
+C:\Users\Stijn\Documents\AdamProject\AdamModule\AdamModule\bin\Debug\AdamModule.exe
+C:\Users\Stijn\Documents\AdamProject\AdamModule\AdamModule\bin\Debug\AdamModule.pdb
+C:\Users\Stijn\Documents\AdamProject\AdamModule\AdamModule\bin\Debug\Advantech.Protocol.dll
+C:\Users\Stijn\Documents\AdamProject\AdamModule\AdamModule\obj\Debug\AdamModule.csprojResolveAssemblyReference.cache
+C:\Users\Stijn\Documents\AdamProject\AdamModule\AdamModule\obj\Debug\MainWindow.baml
+C:\Users\Stijn\Documents\AdamProject\AdamModule\AdamModule\obj\Debug\MainWindow.g.cs
+C:\Users\Stijn\Documents\AdamProject\AdamModule\AdamModule\obj\Debug\App.g.cs
+C:\Users\Stijn\Documents\AdamProject\AdamModule\AdamModule\obj\Debug\AdamModule_MarkupCompile.cache
+C:\Users\Stijn\Documents\AdamProject\AdamModule\AdamModule\obj\Debug\AdamModule.g.resources
+C:\Users\Stijn\Documents\AdamProject\AdamModule\AdamModule\obj\Debug\AdamModule.Properties.Resources.resources
+C:\Users\Stijn\Documents\AdamProject\AdamModule\AdamModule\obj\Debug\AdamModule.csproj.GenerateResource.Cache

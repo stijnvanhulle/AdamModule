@@ -26,6 +26,7 @@ namespace AdamModule
             InitializeComponent();
             AdamSocket socket= Adam.Open();
             Adam.Read(socket);
+            Adam.Write(socket);
         }
     }
 }
